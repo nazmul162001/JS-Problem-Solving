@@ -9,3 +9,4 @@ lastBench.shift('nazmul');
 // remove first item in aray
 lastBench.unshift('habib');
 console.log(lastBench);
+
