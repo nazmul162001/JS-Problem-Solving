@@ -35,3 +35,4 @@ function getSecondHighestNum(arr) {
 let myArr = [65, 58, 21, 14, 65, 94, 45, 21, 88, 85];
 let outPut = getSecondHighestNum(myArr);
 console.log(outPut);
+  
